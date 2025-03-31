@@ -4,11 +4,10 @@ A Swift package for efficient shape drawing and image processing on iOS, leverag
 
 ## Features
 
-- High-performance shape drawing using Metal
+- High-performance shape drawing
 - Flexible shape protocol for custom shape implementations
 - Efficient image processing capabilities
-- Support for various shape types and drawing operations
-- Optimized for iOS 13.0 and later
+- Support for various extendable shape types in the future and drawing operations
 
 ## Requirements
 
